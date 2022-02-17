@@ -8,4 +8,4 @@ Se le fue la luz al Jesus :(
 
     odio francia
 
-    https:/moodle.chihuahua2.tecnm.mz
+    https:/moodle.chihuahua2.tecnm.mx
