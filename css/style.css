@@ -16,7 +16,6 @@ body{
 }
 
 .card{
-    position: fixed;
     text-align: center;
     height: 100px;
     width: 50px;
