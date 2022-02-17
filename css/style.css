@@ -14,6 +14,7 @@ body{
 }
 .logo{
     height:100px;
+    border-radius: 10px;
 }
 
 .card{
@@ -39,7 +40,7 @@ body{
 }
 
 .card h2{
-    font-size: 100%;
+    font-size: 150%;
     margin: 5%;
     color: rgb(0, 0, 0);
     text-align: center;
@@ -47,11 +48,11 @@ body{
 }
 
 .card p{
-    font-size: 50%;
+    font-size: 80%;
     margin: 5%;
     color: rgb(110, 110, 110);
-    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    text-justify: auto;
 }
 
 h2{
