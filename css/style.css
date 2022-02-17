@@ -23,10 +23,10 @@ body{
     width: 22%;
     border: 2px rgb(0, 0, 0);
     border-radius: 5px;
-    -webkit-box-shadow: 2px 2px 5px rgba(153, 153, 153, 0.445);
-    -moz-box-shadow: 2px 2px 5px rgba(153, 153, 153, 0.445);
-    filter: shadow(color=rgba(153, 153, 153, 0.445), direction=135, strength=2);
-    box-shadow: 2px 2px 5px rgba(153, 153, 153, 0.445);
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    filter: shadow(color=rgba(0, 0, 0, 0.445), direction=135, strength=2);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
     float:left;
     margin: 1%;
 }
