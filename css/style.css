@@ -64,3 +64,11 @@ h2{
     letter-spacing: 2px;
     font-family: sans-serif;
 }
+
+.form-control{
+    background: transparent !important;
+    color: #fff !important;
+}
+::placeholder{
+    color: #fff !important;
+}
