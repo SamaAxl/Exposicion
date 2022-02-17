@@ -26,7 +26,7 @@ body{
     filter: shadow(color=#999999, direction=135, strength=2);
     box-shadow: 2px 2px 5px #999;
     float:left;
-    margin: 5%;
+    margin: 2%;
 }
 
 .card img{
@@ -35,9 +35,20 @@ body{
     text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+.card p{
+    margin: 5%;
+    font-size: 20px;
+    color: rgb(68, 68, 68);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+>>>>>>> 206a0225eb681cdaee3ff11c27c5adb1984328b7
 .card h2{
     font-size: 30px;
-    margin: 10%;
+    margin: 5%;
     color: rgb(0, 0, 0);
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
