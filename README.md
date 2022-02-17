@@ -1,4 +1,4 @@
-Se me fue la luz :(
+# Grupo SOMOS
+## "Ofreciendo Soluciones"
 
-dios nos ha abandonado
-caca
+Se me fue la luz :(
