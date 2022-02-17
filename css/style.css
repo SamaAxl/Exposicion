@@ -28,7 +28,7 @@ body {
   filter: shadow(color=rgb(0, 0, 0, 0.445), direction=135, strength=2);
   box-shadow: 4px 4px 10px rgb(0, 0, 0, 0.445);
   margin-bottom: 5%;
-  margin: 1%;
+  margin: 2%;
 }
 
 .card img {
