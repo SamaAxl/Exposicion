@@ -7,3 +7,5 @@ Esta conformado por un equipo de 4 personas, con grandes capacidades y talento.
 Se le fue la luz al Jesus :(
 
     odio francia
+
+    https:/moodle.chihuahua2.tecnm.mz
