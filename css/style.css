@@ -26,7 +26,7 @@ body{
     filter: shadow(color=#999999, direction=135, strength=2);
     box-shadow: 2px 2px 5px #999;
     float:left;
-    margin: 10%;
+    margin: 5%;
 }
 
 .card img{
