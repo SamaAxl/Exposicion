@@ -18,7 +18,7 @@ body {
 
 .card {
   text-align: center;
-  height: 40%;
+  height: 45%;
   width: 45%;
   flex-wrap: wrap;
   border: 2px rgb(0, 0, 0);
@@ -47,7 +47,7 @@ body {
 
 .card p {
   font-size: 85%;
-  margin: 5%;
+  margin: 7%;
   color: rgb(65, 65, 65);
   text-justify: auto;
 }
