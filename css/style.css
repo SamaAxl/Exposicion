@@ -6,8 +6,7 @@ html {
 }
 
 body {
-  background: linear-gradient(rgba(95, 114, 190, 0.8), rgba(155, 35, 234, 0.7)),
-    url(/Exposicion/img/bg.jpg);
+  background: linear-gradient(90deg, rgba(95, 114, 190, 0.8) 0%, rgba(155, 35, 234, 0.7) 100%);
   background-size: cover;
   background-position: center;
   color: white;
@@ -24,10 +23,10 @@ body {
   flex-wrap: wrap;
   border: 2px rgb(0, 0, 0);
   border-radius: 10px;
-  -webkit-box-shadow: 2px 2px 5px #999;
-  -moz-box-shadow: 2px 2px 5px #999;
-  filter: shadow(color=#999999, direction=135, strength=2);
-  box-shadow: 4px 4px 10px #999;
+  -webkit-box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.445);
+  -moz-box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.445);
+  filter: shadow(color=rgb(0, 0, 0, 0.445), direction=135, strength=2);
+  box-shadow: 4px 4px 10px rgb(0, 0, 0, 0.445);
   margin-bottom: 5%;
   margin: 1%;
 }
@@ -44,20 +43,17 @@ body {
   margin: 5%;
   color: rgb(0, 0, 0);
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
 }
 
 .card p {
-  font-size: 80%;
+  font-size: 85%;
   margin: 5%;
-  color: rgb(110, 110, 110);
-  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(65, 65, 65);
   text-justify: auto;
 }
 
 h2 {
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
 }
 .text-description {
   letter-spacing: 2px;
@@ -83,7 +79,7 @@ footer {
   width: 100%;
   border: 2px rgb(0, 0, 0);
   border-radius: 5px;
-  box-shadow: 2px 2px 5px #999;
+  box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.445);
   float: left;
   padding-bottom: 5%;
 }
@@ -93,6 +89,6 @@ footer {
   width: 100%;
   border: 2px rgb(0, 0, 0);
   border-radius: 5px;
-  box-shadow: 2px 2px 5px #999;
+  box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.445);
   float: left;
 }
