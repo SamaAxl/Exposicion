@@ -6,7 +6,7 @@ body, html{
 
 body{
 
-    background: linear-gradient(rgba(95,114,190,.8),rgba(155,35,234,.7)), url(/Exposicion/img/abuela-condenada-fotos-menores.png);
+    background: linear-gradient(rgba(95,114,190,.8),rgba(155,35,234,.7)), url(/Exposicion/img/bg.jpg);
     background-size: cover;
     background-position: center;
 
