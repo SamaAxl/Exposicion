@@ -9,7 +9,6 @@ body{
     background: linear-gradient(rgba(95,114,190,.8),rgba(155,35,234,.7)), url(/Exposicion/img/bg.jpg);
     background-size: cover;
     background-position: center;
-    color: white;
 
 }
 .logo{
@@ -20,7 +19,7 @@ body{
 .card{
     text-align: center;
     height: 25%;
-    width: 22%;
+    width: 20%;
     border: 2px rgb(0, 0, 0);
     border-radius: 5px;
     -webkit-box-shadow: 2px 2px 5px #999;
@@ -28,7 +27,7 @@ body{
     filter: shadow(color=#999999, direction=135, strength=2);
     box-shadow: 2px 2px 5px #999;
     float:left;
-    margin: 1%;
+    margin: 2%;
 }
 
 .card img{
@@ -48,18 +47,17 @@ body{
 }
 
 .card p{
-    font-size: 100%;
+    font-size: 80%;
     margin: 5%;
     color: rgb(110, 110, 110);
     font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
+    text-justify: auto;
 }
 
 h2{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 .text-description{
     letter-spacing: 2px;
     font-family: sans-serif;
