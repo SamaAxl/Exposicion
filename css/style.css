@@ -17,8 +17,8 @@ body{
 
 .card{
     text-align: center;
-    height: 200px;
-    width: 100px;
+    height: 500px;
+    width: 400px;
     border: 2px rgb(0, 0, 0);
     border-radius: 5px;
     -webkit-box-shadow: 2px 2px 5px #999;
@@ -28,8 +28,8 @@ body{
 }
 
 .card img{
-    width: 100px;
-    height: 75px;
+    width: 400px;
+    height: 350px;
 }
 
 .card p{
