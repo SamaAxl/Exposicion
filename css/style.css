@@ -78,7 +78,7 @@ footer {
   width: 100%;
   border: 2px rgb(0, 0, 0);
   border-radius: 5px;
-  box-shadow: 2px 2px 5px #999;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
   float: left;
   padding-bottom: 5%;
 }
@@ -88,6 +88,6 @@ footer {
   width: 100%;
   border: 2px rgb(0, 0, 0);
   border-radius: 5px;
-  box-shadow: 2px 2px 5px #999;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
   float: left;
 }
