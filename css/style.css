@@ -23,10 +23,10 @@ body{
     width: 22%;
     border: 2px rgb(0, 0, 0);
     border-radius: 5px;
-    -webkit-box-shadow: 2px 2px 5px #999;
-    -moz-box-shadow: 2px 2px 5px #999;
-    filter: shadow(color=#999999, direction=135, strength=2);
-    box-shadow: 2px 2px 5px #999;
+    -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
+    filter: shadow(color=rgba(0, 0, 0, 0.445), direction=135, strength=2);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.445);
     float:left;
     margin: 1%;
 }
@@ -44,20 +44,18 @@ body{
     margin: 5%;
     color: rgb(0, 0, 0);
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .card p{
-    font-size: 100%;
+    font-size: 84%;
+    font-weight: normal;
     margin: 5%;
-    color: rgb(110, 110, 110);
-    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(49, 49, 49);
     text-align: justify;
 }
 
 h2{
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 .text-description{
