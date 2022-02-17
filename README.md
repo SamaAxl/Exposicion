@@ -1,4 +1,4 @@
-# Grupo SOMOS
-## "Ofreciendo Soluciones"
+# Grupo SOMOS 
+**"Ofreciendo Soluciones"**
 
 Se me fue la luz :(
