@@ -41,7 +41,7 @@ body{
     top: -100%;
     bottom: -100%;
     margin: auto;
-    min-height: 100%;
+    min-height: 50%;
     min-width: 100%;
 }
 
