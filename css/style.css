@@ -14,3 +14,33 @@ body{
 .logo{
     height:100px;
 }
+
+.card{
+    text-align: center;
+    height: 170px;
+    width: 100px;
+    border: 2px rgb(0, 0, 0);
+    border-radius: 5px;
+    -webkit-box-shadow: 2px 2px 5px #999;
+    -moz-box-shadow: 2px 2px 5px #999;
+    filter: shadow(color=#999999, direction=135, strength=2);
+    box-shadow: 2px 2px 5px #999;
+}
+
+.card img{
+    width: 100px;
+}
+
+.card p{
+    font-size: 20px;
+    color: rgb(68, 68, 68);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card h2{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
