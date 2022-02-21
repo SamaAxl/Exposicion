@@ -16,7 +16,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  color: rgb(47, 33, 100);
+  color: rgb(47, 11, 54);
 }
 
 body p {
@@ -37,7 +37,6 @@ body p {
   filter: shadow(color=rgb(0, 0, 0, 0.445), direction=135, strength=2);
   box-shadow: 4px 4px 10px rgb(0, 0, 0, 0.445);
 }
-
 
 .card img {
   width: 100%;
@@ -86,7 +85,7 @@ footer {
 .contenedorm {
   display: flex;
   grid-template-columns: repeat(3, lfr) !important;
-  max-width: 25rem;
+  max-width: 30rem;
   margin: 0 auto;
   padding-top: 1px;
   margin-bottom: 3rem;
@@ -103,17 +102,17 @@ footer {
   border-radius: 10px;
 }
 
-.contenedormm img {
-  width: 100%;
-  height: 100%;
+.contenedorcard {
+  display: flex;
+  grid-template-columns: repeat(4, lfr) !important;
+  max-width: 30rem;
+  margin: 0 auto;
+  padding-top: 0.2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
 }
 
-.contenedormm p {
-  font-size: 85%;
-  margin: 3%;
-  color: rgb(65, 65, 65);
-  text-justify: justify;
-}
 .nosotros {
   color: rgb(47, 33, 100);
   padding-top: 10px;
@@ -124,8 +123,24 @@ footer {
 }
 
 @media (max-width: 980px) {
-  .contenedorm{
+  .contenedorm {
+    display: flex;
+    grid-template-columns: repeat(3, lfr) !important;
     max-width: 35rem;
+    margin: 0 auto;
+    padding-top: 1px;
+    margin-bottom: 3rem;
+    border-radius: 10px;
   }
-  
+}
+@media (min-width: 980px) {
+  .contenedorm {
+    display: flex;
+    grid-template-columns: repeat(3, lfr) !important;
+    max-width: 25rem;
+    margin: 0 auto;
+    padding-top: 1px;
+    margin-bottom: 3rem;
+    border-radius: 10px;
+  }
 }
