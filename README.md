@@ -1,4 +1,4 @@
-# Grupo SOMOS 
+# SOMOS Software
 **"Ofreciendo Soluciones"**
 
 Estamos enfocados en trabajos prácticos y el manejo de errores, con experiencia en el análisis, trabajo y corrección.
